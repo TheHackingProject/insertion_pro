@@ -39,7 +39,12 @@ _(Si oui, quelle image ont-ils ?)_
 ### 2.4. Combien de temps as-tu mis pour trouver un travail ?
 _(Et combien d'heures par semaine ?)_
 
-### 2.5. Y avait-il des compétences que tu as révisé en plus pour améliorer ta candidature ?
+### 2.5. Y avait-il des compétences que tu as révisées en plus pour améliorer ta candidature ?
+_(De l'algorithmie ? Plus de JS ? )_
+
+### 2.6. Quelles sont les prétentions salariales d'une personne sortant de la formation fullstack / développeur ?
+_(En salaire annuel brut)_
+
 
 ## 3. Les entretiens
 
